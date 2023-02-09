@@ -45,14 +45,23 @@ body {
 
 .fourth-section {
     color: white;
-    padding-top: 30px;
-    padding-left: 30px;
-    padding-right: 30px;
-    padding-bottom: 30px;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
 }
 
 .blue-box {
     background-color: #3882F6;
+    border-radius: 7px;
+}
+
+.transparent-signup-button {
+    background-color: transparent;
+    border-radius: 14px;
+    border: 2px solid white;
+    color: white;
+    font-size: 17px;
 }
 
 .footer-text {
