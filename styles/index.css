@@ -26,3 +26,11 @@ body {
     padding: 10px 25px;
     border-style: none;
 }
+
+.footer-text {
+    background-color: #1F2937;
+    color: white;
+    text-align: center;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
