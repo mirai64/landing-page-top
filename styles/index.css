@@ -27,6 +27,22 @@ body {
     border-style: none;
 }
 
+.third-section {
+    background-color: #e5e7eb;
+    color: #1F2937;
+    font-size: 36px;
+    text-align: center;
+}
+
+.quote-text {
+    text-align: center;
+    padding: auto;
+}
+
+.quote-author {
+    font-weight: bold;
+}
+
 .footer-text {
     background-color: #1F2937;
     color: white;
