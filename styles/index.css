@@ -63,6 +63,11 @@ img {
     align-items: center;
 }
 
+.friend-imgs {
+    max-width: 300px;
+    max-height: 300px;
+}
+
 .image-text {
     justify-content: space-between;
     text-align: center;
