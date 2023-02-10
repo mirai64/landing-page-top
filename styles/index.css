@@ -11,6 +11,16 @@ header {
     padding: 0 16px;
 }
 
+.navbar-links {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    list-style: none;
+    margin-left: auto;
+    margin-right: 12px;
+    color: white;
+}
+
 .first-section {
     background-color: #1F2937;
     color: white;
@@ -57,21 +67,18 @@ header {
     margin-top: 50px;
 }
 
-img {
+.friend-imgs {
     border-radius: 30px;
     border: 4px solid #3882F6;
     align-items: center;
+    max-width: 300px;
+    max-height: 300px;
 }
 
 .friend-names {
     font-weight: bold;
     font-size: 40px;
     text-align: center;
-}
-
-.friend-imgs {
-    max-width: 300px;
-    max-height: 300px;
 }
 
 .third-section {
