@@ -7,6 +7,9 @@ body {
 .first-section {
     background-color: #1F2937;
     color: white;
+    padding-top: 170px;
+    padding-bottom: 170px;
+    flex-direction: row;
 }
 
 .hero-main-text {
@@ -98,7 +101,6 @@ img {
 .bold-text {
     font-weight: 600;
 }
-
 
 .transparent-signup-button {
     background-color: transparent;
