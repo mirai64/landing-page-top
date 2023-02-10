@@ -63,6 +63,11 @@ img {
     align-items: center;
 }
 
+.friend-names {
+    font-weight: bold;
+    text-align: center;
+}
+
 .friend-imgs {
     max-width: 300px;
     max-height: 300px;
