@@ -29,13 +29,19 @@ header {
     flex-direction: row;
 }
 
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .hero-main-text {
     font-size: 48px;
     font-weight: bolder;
 }
 
 .sign-up-button {
-    background-color: #3882F6;
+    background-color: #42e478;
     color: white;
     border-radius: 15px;
     cursor: pointer;
@@ -45,6 +51,12 @@ header {
     text-decoration: none;
     padding: 10px 25px;
     border-style: none;
+    justify-self: center;
+}
+
+.main-maru-img {
+    max-width: 300px;
+    max-width: 300px;
 }
 
 .second-section {
