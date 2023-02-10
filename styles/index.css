@@ -27,6 +27,18 @@ body {
     border-style: none;
 }
 
+.second-section {
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.random-info-text {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 700;
+    color: #1F2937;
+}
+
 .third-section {
     background-color: #e5e7eb;
     color: #1F2937;
