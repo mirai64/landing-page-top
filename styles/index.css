@@ -7,8 +7,19 @@ body {
 header {
     background-color: #1F2937;
     display: flex;
-    align-items: center;
+    align-items: flex-end;
     padding: 0 16px;
+    gap: 3px;
+    justify-content: space-between;
+}
+
+.navbar-menu {
+    display: flex;
+    gap: 40px;
+}
+
+ul {
+    gap: 1.5em;
 }
 
 .navbar-links {
@@ -33,6 +44,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
+    gap: 350px;
 }
 
 .hero-main-text {
@@ -51,12 +63,13 @@ header {
     text-decoration: none;
     padding: 10px 25px;
     border-style: none;
-    justify-self: center;
 }
 
 .main-maru-img {
     max-width: 300px;
     max-width: 300px;
+    border: 6px solid #378a53;
+    border-radius: 50px;
 }
 
 .second-section {
