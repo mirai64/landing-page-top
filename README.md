@@ -1,12 +1,9 @@
 # landing-page-top
 This is Project: Landing Page from the Foundations Course on The Odin Project.
 
-### so i know the project said not to peek at other people's projects... but i did.
-#### i've been making short amounts of progress on this project for a couple of days but i think similar to what most people have done already, i've decided to model this after one of my characters, maru from amber of the stars. 
+### Maru's Page:
+After creating the initial skeleton of the page, I looked at solutions that other students created since I was feeling stuck at where I was and wasn't exactly sure where to go. After looking at around 2 or 3 pages, I decided to create a website based around one of my characters, Maru from Amber of the Stars. I based it off of the kind of personal flair she would put on a landing page if she were to attempt this assignment. 
 
-#### honestly i was kind of inspired by these:
-https://criosyom.github.io/Hakurei_Shrine/
-http://www.othercatt.com/
+It took me a couple of days to finish this project, and I might come back later in the future to add more onto this project, but at the moment, I think I'm finished with it and am ready to move onto the next section.
 
-#### when i finish this and finish the section for amber of the stars, i'll probably add this to the character pages on NEO'S REALM
- 
+While I *feel* like I'm getting the hang of CSS, it's just flexbox and the overall concept of flex that is really confusing me and it's something I feel like I've been sort of stuck on for ages. _honestly i feel like i've had an easier time learning about c# than i have learning how flexbox and flex works_. In the meantime, I'll check out more resources on CSS and maybe try playing that one Flexbox Frog game. 
